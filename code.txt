@@ -1,0 +1,10 @@
+enemy.right()
+enemy.down()
+enemy.down()
+
+enemy.right()
+enemy.right()
+enemy.right()
+enemy.down()
+enemy.right()
+enemy.right()
